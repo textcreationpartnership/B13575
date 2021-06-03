@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Griffin Flood informer Whose cunning courses, churlish manners, and troublesome informations, molested a number of plaine dealing people in this city of London. Wherein is also declared the murther of Iohn Chipperford Vinter, for twich fact the said Griffin Flood was pressed to death the 18. day of Ianuary last past.</title>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13575</idno><idno type="EEBO-CITATION">99852396_17717</idno>
+  <idno type="VID">17717</idno>
+  <idno type="EEBO-PROQUEST">2248539824</idno>
+  <idno type="STC">STC 11090</idno>
+  <idno type="STC">ESTC S117181</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99852396e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 837:02, 1137:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Griffin Flood informer Whose cunning courses, churlish manners, and troublesome informations, molested a number of plaine dealing people in this city of London. Wherein is also declared the murther of Iohn Chipperford Vinter, for twich fact the said Griffin Flood was pressed to death the 18. day of Ianuary last past.</title>
+               </titleStmt>
+               <extent>[48] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Eld] for I. T[rundle?] and are to be sold at the signe of the Bible without New-Gate [by J. Wright],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from and publisher's and vendor's names conjectured by STC.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Imperfect; much print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Appears at reel 837 #2 and 1137 #6 (both British Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Flood, Griffin, d. 1623.</term>
+               <term type="personal_name">Chipperford, John.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:17717:1"/>
+            <p>
+               <figure>
+                  <figDesc>Woodcut illustration of three men in cloaks and hats, standing beside a fire.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:17717:1"/>
+            <p>The Life and Death OF Griffin Flood Informer. Whose cunning courses, churlish manners, and troublesome Informations, molested a number of plaine dealing people in this City of London.</p>
+            <p>Wherein is also declared the murther of Iohn Chipperford Vintner, for which fact the said Griffin Flood was pressed to death the 18. day of Ianuary last past.</p>
+            <figure>
+               <figDesc>Woodcut illustration of an execution, showing the condemned man being pressed to death; he is staked to the ground while two executioners heap planks and weights upon his body.</figDesc>
+            </figure>
+            <p>LONDON, Printed for I. T. and are to be sold at the signe of the Bible without New-gate. 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:17717:2"/>
+            <pb facs="tcp:17717:2"/>
+            <head>The Life and Death of <hi>Griffin Flood</hi> Informer.</head>
+            <div type="section">
+               <argument>
+                  <p>Of the bad condition, foule speaches, and ill demeanor of <hi>Griffin Flood,</hi> and how he became first to be an Informer.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">N</seg>OW first to make a character or description of this <hi>Griffin Flood.</hi> He was a fellow of meane birth, rude bringing vp, ill instructed in eyther learning or good man<g ref="char:EOLhyphen"/>ners, harsh in speach, and chur<g ref="char:EOLhyphen"/>lish in condition, full of quarrels, stubborne and vnruly, and in briefe, of a most debauched condi<g ref="char:EOLhyphen"/>tion, as by the sequell may appeare.</p>
+               <p>But omitting these, and to come to particulars: he was in his yonger dayes bound Prentise with a Currier or Dresser of leather; in which time of his seruice he picked such quarrels among his fellow seruants, and followed them with such cunning, as they being ouer-awed with his shamelesse lying, were forced to submit to whatsoeuer he pleaded a<g ref="char:EOLhyphen"/>gainst them, in so much that sometimes they were faine to buy their peace with their purses. And thus by his cunning informations of falshoods to his Master and Mistris, in which he commonly preuai<g ref="char:EOLhyphen"/>led, he learned to tread the first step to this trou<g ref="char:EOLhyphen"/>blesome
+<pb facs="tcp:17717:3"/> course of life, now named an Informer, where after being made a free-man of this City, he followed the same wayes, and became a great troubler of diuers other seruants and apprentises dwelling neere him, where if he found any that he knew, either in Tauerne, Alehouse, Bowling-alley, or Play-house, or else going abroad in Seruice time, when they should haue beene at the Church to the seruice of God with their masters, he would be sure to pick some feeling of money from them, or make it knowne to the displeasure of their pa<g ref="char:EOLhyphen"/>rents or masters; all which these poore seruants and apprentises would doe before their names and credits should come in question.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Of the manner of his informations against Tapsters, Hostlers, Chamberlaines, and such like.</p>
+               </argument>
+               <p>AFter this, entring further into this kind of life, and perceiuing some small gaine to come thereby, he began to haunt Alehouses, Innes, Ho<g ref="char:EOLhyphen"/>steries, Cellars, and such like, where if hee found either forraine Tapster, Hostler, Chamberlaine, or any other party that was no free-man of this City; to him would he priuately come, and thus make his glose; My friend (quoth he) you being no freeman, but liue here by sufferance vnder your master, I vnderstand that there be certaine Infor<g ref="char:EOLhyphen"/>mers which I know, that meane to trouble and sue you by action, and bring you in question for the wronging of the customes of this City, where<g ref="char:EOLhyphen"/>in no man must make his liuing by way of trading,
+<pb facs="tcp:17717:3"/> but such as haue serued seuen yeares an appren<g ref="char:EOLhyphen"/>tise, or else made free-man by adoption or pur<g ref="char:EOLhyphen"/>chase; now if you will (quoth <hi>Flood</hi>) preuent this trouble and be my cliant, I will for a small matter defend you from the same, and cleare you from all Informers whatsoeuer, for I am an enemy to all such knaues whose purpose is to wrong such honest meaning men as you are, for my consci<g ref="char:EOLhyphen"/>ence drawes me to it, and I will proue honest there<g ref="char:EOLhyphen"/>in. The poore country fellow being thus honied and loath to leaue his masters seruice, hath <hi>Flood</hi> downe into the cellar, makes him drinke, lends him money, and becomes so pliable to his condi<g ref="char:EOLhyphen"/>tions, that he is led vp and downe as with a twine threed, till a part of his meanes fals into this <hi>Floods</hi> purse; but no longer peny, no longer <hi>pater noster,</hi> the fellow growes weary, and is no longer able to feed <hi>Floods</hi> desires, but leaues him off, and sub<g ref="char:EOLhyphen"/>mits himselfe to the triall of his action, where <hi>Flood</hi> as a cunning Iacke on both sides, followes him so close, that after much money spent, hee is forced to forsake his seruice, and to leaue the City, and the master of the same forraigner, is likewise brought to composition to be rid of this crafty Informer.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Another way of information that Flood vsed against forraigners and such like.</p>
+               </argument>
+               <p>THis <hi>Flood</hi> also comes to another fellow being no free-man, where after the like conference as before, he takes vpon him, with the mans consent
+<pb facs="tcp:17717:4"/> to bring him into action, and so to preuens all o<g ref="char:EOLhyphen"/>thers of the like, declares against him by writ, and so it hangs in Court many yeares vnfollowed by <hi>Flood</hi> for a monethly stipend receiued from the fellow thus sued: and so all other Informers were preuented for bringing him in question; for one of them by order of Law cannot take anothers case in hand. And thus <hi>Flood</hi> to his great be<g ref="char:EOLhyphen"/>nefit, dealt with many poore people in London.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>How he troubled an honest Ale-wife not farre from Cripplegate: and how finely she requited him.</p>
+               </argument>
+               <p>THere was an honest Alewife, whose name and dwelling I omit, not farre from Cripplegate, well known and reputed of among her neighbors, who kept in her house good lodging and orderly diet for entertainment of strangers and wayfaring men. Amongst others that resorted to her house, there was a forraigne Tailor, a very poore man, who ran more on the score for lodging and dyet, then he was able to pay, therefore to come out of her debt, he desired to work out the same, either in making new apparell, or mending of old: where<g ref="char:EOLhyphen"/>upon this Alewife put an old peticoat of hers to mend, which got the poore man but sixe-pence. Which matter this <hi>Flood</hi> hauing notice of, warned both her and her husband into the Court for set<g ref="char:EOLhyphen"/>ting this forraigner on worke: where, doe what eyther he or she could, it cost them forty shillings, and so came home without any other comfort, for <hi>Flood</hi> had shared his part of the money, of which
+<pb facs="tcp:17717:4"/> he made no little brags amongst his Companions; but it fell out after a certaine time this <hi>Flood</hi> came againe to the said Alewifes house, thinking to find out another like Prize, where casting his knauish eye vp and downe, hee espied the good wife run downe into the Cellar with a blacke Pot or two, (measures contrary to the Cities custome) after followes <hi>Flood,</hi> and thinking to attach them, the woman hauing a ready wit, and now thinking to be reueng'd, caught vp a Pewter quart Pot, and lustily laid it vpon <hi>Floods</hi> pate, and most grieuou<g ref="char:EOLhyphen"/>sly broke both his head and face, and withall cryed out with a loud voyce, Oh help, murther, murther, the noyse being heard not only vp into the house but abroad into the streets, caused many people come running in, and inquiring the matter, shee with fained teares cryed out hee would haue ra<g ref="char:EOLhyphen"/>uish<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her and forst her against her will, and that she to defend her selfe had with a Pewter pot broake his face, wherevpon all the beholders knowing <hi>Flood</hi> to bee a very knaue, and beleeuing the wo<g ref="char:EOLhyphen"/>man by her teares to tell true, called for a Consta<g ref="char:EOLhyphen"/>ble, who carried both <hi>Flood</hi> and the Alewife before a Iustice, where she standing stiffely in her accusa<g ref="char:EOLhyphen"/>tion, he was committed to Prison, where hee lay with his broken pate and face, vntill such time as he had giuen the woman a good summe of money in composition for the supposed wrong hee had done her.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:17717:5"/>
+               <argument>
+                  <p>How <hi>Flood</hi> churlishly handled two Informers, and of his hatred against all Firken-men.</p>
+               </argument>
+               <p>AFter this, <hi>Flood</hi> becomming a little kinder to poore Ale-wiues, and vsing much to resort to a Cookes house a Widdow, which often gaue him a breakfast to stay his knauish stomacke; where<g ref="char:EOLhyphen"/>vpon (as the Diuell is good to some body) so this <hi>Flood</hi> stood close to this woman in courtesie, and promised to defend her from all actions whatsoe<g ref="char:EOLhyphen"/>uer; for indeed as then there were a couple of In<g ref="char:EOLhyphen"/>formers had her in chase, and by no meanes could shee bee rid of them; for commonly they came once a moneth to her house and got mony of her: but it so hapned whilst <hi>Flood</hi> was talking with this woman, that these two aforesaid Informers came to her house, according to their accustomed man<g ref="char:EOLhyphen"/>ner, which <hi>Flood</hi> perceiuing, and being a little Pot<g ref="char:EOLhyphen"/>shaken, tooke vp a broome-staffe and fell a bum<g ref="char:EOLhyphen"/>basting them, and being all together by the eares downe in the kennell, <hi>Flood</hi> like a cunning knaue all begraueld and bedurtied his owne face, crying out they would murther him, and by that meanes so cunningly vsed the matter that his fellow<g ref="char:EOLhyphen"/>knaues were carried both to the Counter, whilst hee being the third and worst, escaped imprison<g ref="char:EOLhyphen"/>ment. But now marke the iest, as they were going to Prison, there comes by a lusty lubberly Firken<g ref="char:EOLhyphen"/>man, bearing out drinke to his Customers, a fami<g ref="char:EOLhyphen"/>liar friend and acquaintance of one of these Infor<g ref="char:EOLhyphen"/>mers thus beaten, &amp; hearing of these wrongs done
+<pb facs="tcp:17717:5"/> by <hi>Flood,</hi> falls vpon him and most brauely behangs him, &amp; so amongst the tumult of people gets him away vnknowne, and leaues <hi>Flood</hi> behind with the amends in his owne hands, seeking for hee could not tell whom: wherevpon in mortall hatred, he sought reuengement against all Firken-men; and for this one mans sake vow'd to bee a plague to all the rest, and so after that there could not bee a Firken-man step out of dores, but hee would be on their iackes, especially all those that were forrai<g ref="char:EOLhyphen"/>ners, insomuch, were hee but in the shape of a Firken-man, it was enough for him to set his kna<g ref="char:EOLhyphen"/>uish wit on worke: by this meanes many of them were inforced to buy their Freedomes, to their great charges. Others, that were of the poorer sort, hee with his cunning-fram'd Actions affrigh<g ref="char:EOLhyphen"/>ted from London, where they liued as before in much Pouerty.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>How he troubled a poore Sheere-grinder, for relie<g ref="char:EOLhyphen"/>uing his owne father.</p>
+               </argument>
+               <p>
+                  <hi>FLood</hi> still following these pittilesse courses, came vpon a time to a Sheere-grinders shop, where he saw a very poore Country old man tur<g ref="char:EOLhyphen"/>ning the stone, which old man was the Sheere<g ref="char:EOLhyphen"/>grinders own father, and in loue to his sonne took that paines to saue him from hiring one to doe the same worke, all this <hi>Flood</hi> noted, and with a harsh and commanding language, said, my friend, quoth hee, how darest thou bee so bold as to set a For<g ref="char:EOLhyphen"/>reiner on worke, knowing that <hi>Flood</hi> stands here
+<pb facs="tcp:17717:6"/> as a witnesse; I tell thee I will make thee repent it: these, and such like threatning words not onely a<g ref="char:EOLhyphen"/>mazed the poore Sheare-grinder, but much grie<g ref="char:EOLhyphen"/>ued the old man: but to bee short, in question was hee brought, and censured by Order to giue satis<g ref="char:EOLhyphen"/>faction to <hi>Flood</hi> for his Information, and the old man was discharged from any further labour ther<g ref="char:EOLhyphen"/>in; but lay vpon his poore sonne to be kept in cha<g ref="char:EOLhyphen"/>rity: and thus was the cruelty of this <hi>Flood</hi> ex<g ref="char:EOLhyphen"/>pressed to his shame and disgrace.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>How his harsh and churlish dealing caused a poore Flaxe-maid to hang her selfe.</p>
+               </argument>
+               <p>I Must not here omit his harsh dealing against a poore Flaxe-maid in London, who after she had serued twelue yeares Prentise, and wearyed with that seruitude, tooke shop for her selfe, and set vp; of which Flaxe-maid when <hi>Flood</hi> had notice, hee came vnto her, from whom hee oftentimes got much money, and still to buy her owne quietnesse, (being not free but a forreiner) prouided still for his cunning bribery, and had still her money in readinesse, so long, that in time shee grew weary of him, and not able to hold out any longer, shee reuealed it vnto a friend of hers, who counselled her to get her freedome, which shee might easily doe, hauing serued twelue yeares Prentise, which counsell shee followed, and was made free of a worshipfull Company, but not of the City, which was thought sufficient for a womans security to follow Flaxe-dressing. Hereupon <hi>Flood</hi> percei<g ref="char:EOLhyphen"/>uing
+<pb facs="tcp:17717:6"/> his wonted benefits to faile, hammer'd in his knauish pate another trick of Information against her; so watching his time, hee espyed a Country Chapman buying a certaine parcell of Flaxe of her, and giuing her some earnest thereof, as <hi>Flood</hi> tooke hold of by witnesse, hee presently tooke possession thereof, as goods forreine bought and forreine sold, and recouer'd them by way of Acti<g ref="char:EOLhyphen"/>on, which was a great hinderance both to the Flaxe-maid, and to the Countrey Chapman: but to be short, the maid was still haunted with the In<g ref="char:EOLhyphen"/>formations of this <hi>Flood,</hi> which draue her (as some reported) to such a melancholly, that shee tooke no comfort in her businesse, and as it was knowne afterward, shee hang'd her selfe in her owne girdle: the cause I will not say was <hi>Floods,</hi> but let such as vnderstood the manner of her life and carriage, in discretion, iudge and censure thereof rightly.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:17717:7"/>
+               <argument>
+                  <p>How Flood troubled an honest man onely for asking him a question.</p>
+               </argument>
+               <p>THe debauched cariage of this <hi>Flood</hi> was such, that if any but gazingly lookt vpon him, hee would be sure to picke quarrels with him, and if he vsed not his speeches with aduisement, this <hi>Flood</hi> would take aduantage on his words, for the least occasion was sufficient for him to make an action of, whose troublesome courses are verified as fol<g ref="char:EOLhyphen"/>loweth: There was an honest man, belonging to Blackwall-hall, who as he stood in Guild-hall yard, saw <hi>Flood</hi> come forth with a payre of Taylors sheares in his hand, of whom this man demanded what they cost; why fellow (quoth <hi>Flood</hi>) in a clownish manner, Dost thou thinke I stole them. Why no (quoth the other) yet I may aske a que<g ref="char:EOLhyphen"/>stion: A question (quoth <hi>Flood</hi>) I pray thee what art thou? I am a man (quoth he.) A man (said <hi>Flood</hi>) I will haue money from thee then. Money from me? (quoth the other) doe thy worst, I care not for thee, and such like were the words that passed betwixt them, and so they departed. But within a while after, <hi>Flood</hi> brought this honest man in question about the Statute for buildings, which was about a little shop that he kept to sell flaxe in, not, as <hi>Flood</hi> alledged, so sufficiently pla<g ref="char:EOLhyphen"/>stered with lime and haire, of which he made such a long declaration to the Court, that he so pusled the man, that he knew not well how to answer the same: and though <hi>Flood</hi> little preuailed in his suit, yet by his harsh roring language, and foule words
+<pb facs="tcp:17717:7"/> which he so clamoured against this honest man, that for quietnesse sake he was forced to giue some satisfaction to be rid of him.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>How <hi>Flood</hi> deceiued an Officer, and cunningly made him arrest his owne master.</p>
+               </argument>
+               <p>VPon a time this <hi>Flood</hi> comes to one of the Cities officers, and tels him he hath a Writ to serue vpon a free-man for setting a forraigner on worke, of which this Officer was glad to heare of, and thinking thereby to get money, as hee had of<g ref="char:EOLhyphen"/>tentimes before so done by <hi>Floods</hi> meanes, goes with him; where coming together to a Worship<g ref="char:EOLhyphen"/>full Gentlemans of this City, they found a foraine painter, new colouring the Gentlemans house wals, which Gentleman (to speake truly) a Wor<g ref="char:EOLhyphen"/>shipfull Knight, though not named, seeing <hi>Flood</hi> and the other Officer in the yard, comes forth and demanded what newes: Marry (quoth <hi>Flood</hi>) here is a Writ to serue on your Worship for maintai<g ref="char:EOLhyphen"/>ning forraigners, and thereupon giues the same to the Officer to doe his duty; at which the Officer lookes very blancke, considering it was his owne Master on whom he should serue it, yet notwith<g ref="char:EOLhyphen"/>standing according to his oath so done it was, and his Master was forced to compound with <hi>Flood:</hi> who after tooke a pride in such trecherous actions, making himselfe merry at the Officer, whom hee had cunningly brought to arrest his owne master.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:17717:8"/>
+               <argument>
+                  <p>Of <hi>Floods</hi> ingratitude for a Dutch Chandlers bene<g ref="char:EOLhyphen"/>uolence to him lying in the Compter.</p>
+               </argument>
+               <p>THis <hi>Flood,</hi> in acting of many of these his arch knaueries, was at length outstripped by a fel<g ref="char:EOLhyphen"/>low cunninger then himselfe, and being ouer<g ref="char:EOLhyphen"/>throwne in an action, and condemned in a round sum of money, for want of sureties was laid in the Compter; where lying in prison in much necessi<g ref="char:EOLhyphen"/>ty, there was a Dutch Chandler, I will not say dwel<g ref="char:EOLhyphen"/>ling neere vnto Newgate, that in pitty oftentimes sent him much reliefe, as meat and drinke from his owne table both at dinner and supper, and now and then some small peeces of money to comfort him, with an intent after his imprisonment to draw him to his friendship, and that <hi>Flood</hi> should be a trusty staffe to defend him from all informa<g ref="char:EOLhyphen"/>tions that any other Informer should haue against him, for commonly these Dutch Chandlers are much troubled with those kind of people, and therefore this <hi>Flood</hi> he purchased to make his pil<g ref="char:EOLhyphen"/>lar to leane on: This passed on, and many cour<g ref="char:EOLhyphen"/>tesies were sent to him lying in prison by the Dutch Chandler, which were all as butter melted in the Sunne; for after when <hi>Flood</hi> had got his liberty, and followed againe his former courses of life, this Dutch Chandler was the first man he brought in action, and for all his forepassed fauours recei<g ref="char:EOLhyphen"/>ued at his hands, he was the party hee made most prize of.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:17717:8"/>
+               <argument>
+                  <p>How <hi>Flood</hi> came to search a Tauerue in seruice time, and how finely the Vintner requited him.</p>
+               </argument>
+               <p>
+                  <hi>FLood</hi> growing malitious against a Tauerne<g ref="char:EOLhyphen"/>keeper of London, whose name I omit, came vpon a Sabbath day in Seruice time, and brought the Church-wardens to his house, where finding certaine good fellowes taking their mornings draught, fought to haue him presented: but the Vintner hauing a ready wit, wrought as cunning a trick to bring both <hi>Flood</hi> and the Churchwardens into the same trespasse; so the foresaid Tauerne<g ref="char:EOLhyphen"/>keeper seeing himselfe fallen into the danger of the Law, sayd as followeth; Master Churchwar<g ref="char:EOLhyphen"/>dens, and you Master <hi>Flood,</hi> I pray you be good vnto me, I am a young beginner, and a little trou<g ref="char:EOLhyphen"/>ble will much hinder me, therefore I pray you stand my good friends, and inkindnesse take a cup of wine, and withall called for a slice of rost beefe, which the plaine dealing Church-wardens well accepted of, and witha<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Flood</hi> being a hungry fellow, was nor behind in the fame giuen break<g ref="char:EOLhyphen"/>fast; which being finished, quoth <hi>Flood,</hi> this shall not serue your turne, for I must haue money from you, and it is not your bribing breakfast shall sa<g ref="char:EOLhyphen"/>tisfie my turne, Why knaue, replied the Vintner, Thou art as doope in the fault as I, or any of these my customers, for the Churchwarders and thy selfe also haue both eaten and drunke here in my house in sernice time, of which I now take witnesse, there<g ref="char:EOLhyphen"/>fore doe thy worst, I care not for thee: At which
+<pb facs="tcp:17717:9"/> words <hi>Flood</hi> grew a little pacified, and was con<g ref="char:EOLhyphen"/>tented to let the Vintner goe vnpresented for that time, and euer after those Churchwardens much fauoured the said Tauerne.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>How <hi>Flood</hi> out braued a Citizen with a red nose.</p>
+               </argument>
+               <p>VPon a time <hi>Flood</hi> being railing and roring in Guild-hall, as his manner was, a Citizen who had a red nose, a very substantiall man, rebuked him, calling him brazen fac'd fellow to be so auda<g ref="char:EOLhyphen"/>cious in so reuerent a place as that was. Brazen fac'd fellow (quoth <hi>Flood</hi>) if your copper nose Sir were set on my brazen face it would make a very rich show, which words not onely daunted the Citizen, but made him filently passe away much abashed. For rogue, rackall, slaue, and runnagate, were as common in <hi>Floods</hi> mouth, as <hi>how doe you sir</hi> to a man of courtsie.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Of his churlish keeping the walkes in Moore fields.</p>
+               </argument>
+               <p>TO speake yet further of churlish condition, he was chosen (being fit for a troublesome office) to ouersee the walkes in Moore fields, and like the Pinder of <hi>Wakefield</hi> to preuent the intercourse of people ouer the graffe, and not to suffer them to make other paths beside the walkes. To which of<g ref="char:EOLhyphen"/>fice being chosen, he got him a sturdy browne bill, and like a valiant champion intercepted all in<g ref="char:EOLhyphen"/>rodes
+<pb facs="tcp:17717:9"/> ouer the Fields, sauouring neyther old nor young, rich nor poore, Gentleman or other, in such sort that he had many roring combats, and much mischiefe was done by his harsh behauiour, where he not onely brake many a man pate, but se<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tenter hookes vnder the Railes, wherby sundry people (stooping vnder the Railes) tore their cloakes, bands and apparel, and so spoiled their cloathes in such sort, that he was not without ma<g ref="char:EOLhyphen"/>ny bitter curses, and now and then hee caused sun<g ref="char:EOLhyphen"/>dry of the ruder &amp; vnrulier sort of people to sit in the stockes, for their stubbornesse in crossing the Walkes. And many other pranckes hee there plaid, which though he were not ashamed to act, you modesty forbids me relate: in which he shew<g ref="char:EOLhyphen"/>ed himselfe rather a beast then a man, so farre he forgat Christianity and honestly, that he lost all humanitie: and for that cause hee was very de<g ref="char:EOLhyphen"/>seruedly put from that meanes, which had beene sufficient (if honestly vsed) to haue maintained a man to liue well vpon.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Of his shamelesse bragging and boasting of base conditions.</p>
+               </argument>
+               <p>NEuer was there (I thinke) the like audacious and shamelesse fellow liuing in this Citie, nor any of a more impudent carrage before his betters, for to some, to whom hee was farre vn<g ref="char:EOLhyphen"/>equall would he most vpbraidingly say with a full mouth, what, know you not <hi>Criffin Flood?</hi> bring I not the most milke to your payle? is it not I that
+<pb facs="tcp:17717:10"/> bring sacks to your <gap reason="illegible" resp="#pdcc" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you <hi>Goissin Flood</hi> (by his Informations) shall make men quake fur<g ref="char:EOLhyphen"/>thermore, to my knowledge I saw him once stand in the middle of Guild-hall, with his armes akem<g ref="char:EOLhyphen"/>bow on both sides, with a number of people about him, where hee being not ashomed, beastingly said, I thinke in my conscience I am the veriest knaue in all England, and when I am buried, this shall bee my Epitaph:
+<q>
+                     <lg type="epitaph">
+                        <l>Here lyeth <hi>Griffin Flood</hi> full low in his graue,</l>
+                        <l>Which liued a Rascall and died a Knaue.</l>
+                     </lg>
+                  </q>
+               </p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Of his manners and troublesome carriage in the time of his imprisonment.</p>
+               </argument>
+               <p>REturne wee now to his imprisonment in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> where since his comming thither, the o<g ref="char:EOLhyphen"/>ther prisoners haue beene so troubled with his rai<g ref="char:EOLhyphen"/>ling language, that the, accounted him rather a monster then a man, and such quarrels hee bred amongst them, that they many times fell together by the eares, so that day nor night could they bee quiet for him, for what with his cursing, banning, roaring, and blaspheming, hee shewed himselfe ra<g ref="char:EOLhyphen"/>ther an Atheist then a Christian, and little remorse of conscience possessed him, and all his former of<g ref="char:EOLhyphen"/>fences <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame little to his remembrance, especially these petty abuses before rehearsed; but the maine groued of his imprisonment, which was for the murther of <hi>Iohn Chipperfield</hi> Vintener, something terrified him, and a little troubled his Conscience; <gap reason="illegible" resp="#pdcc" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> heauy on a murtherers soule, and the
+<pb facs="tcp:17717:10"/> reuenge there of hourely thunders in his cares; so by this <hi>Flood</hi> was it here verified; for vpon a night in New-gate as hee lay in his bed, in his dreame a fearfull vision appeared vnto him, which was (as hee thought) the ghastly shape of the man hee had murthered, with a bleeding wound in his brest ga<g ref="char:EOLhyphen"/>ping wide open, threatning as it were a speedy re<g ref="char:EOLhyphen"/>uengement, at which <hi>Flood</hi> in his sleepe cryed out most fearefully, the Diuell, the Diuell pursues me, helpe, helpe, hee will teare me in pieces, with such like words of tertor and amazement, that many of the Prisoners affrighted rose from their sleepes, and came to pacifie him in this his distracted ago<g ref="char:EOLhyphen"/>nie: for such were his fits in New-gate, and so di<g ref="char:EOLhyphen"/>stempered was his braine, that he continued there in great discontent without any patience.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>Of a reuenge certaine Tapsters tooke vpon him in New-gate.</p>
+               </argument>
+               <p>A Man he was, that few loued, neither in Pri<g ref="char:EOLhyphen"/>son nor without, and therefore came many thither to vexe and torment him: amongst the rest in a merry vaine came certaine Tapsters to him in Prison, belike some which hee had wron<g ref="char:EOLhyphen"/>ged by his troublesome informations, who in stead of comforts brought him flours and in stead of re<g ref="char:EOLhyphen"/>liefes gaue him griefes; for euery one called for his Can of beere, saying to him in mockage, heere M<seg rend="sup">r</seg>. <hi>Flood,</hi> I drinke to you, heere Mr. <hi>Flood,</hi> a health to you, and such like seuerally, each of them tossing off his beere, giuing him onely the
+<pb facs="tcp:17717:11"/> empty Cans, but therein neuer a drop of drinke, wherevpon <hi>Flood</hi> grew so inraged, that he enstil'd them with no better then Slaues and Rogues, and for their sakes vow'd a reuenge (if euer at liberty) against all other Tapsters.</p>
+               <p>And to put the same in practice, hee presently sent for a debtor of his which was a Tapster, that owed him a certaine sum of money, which fellow in pitty, by reason of his imprisonment brought him a part thereof, thinking therewith in that his extremity to content him; but <hi>Flood</hi> as his chur<g ref="char:EOLhyphen"/>lish custome euer was, so kept hee his old order, and would not receiue lesse then his whole debt; whereupon the fellow goes his wayes and bids him recouer it by action: which <hi>Flood</hi> with a sterne looke threatned to doe, but afterward considering how his case stood, and how that (in prison) hee lay much impouerished, sent for some part of his money before promised. Not so, quoth the Tap<g ref="char:EOLhyphen"/>ster, for I am otherwise minded; returning him this answer, according to the Prouerbe:
+<q>
+                     <l>He that will not while he may,</l>
+                     <l>When he would he shall haue nay.</l>
+                  </q>
+               </p>
+               <p>So was it with <hi>Flood,</hi> when he might haue liued well, and in good gouernment, the want of grace and seruing God, cut him off with a nay, where then being tempted by the deuill, hee ranne him<g ref="char:EOLhyphen"/>selfe so deepe into the danger of the law, that his life answered it with an vntimely death.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:17717:11"/>
+               <argument>
+                  <p>How after all these his troublesome courses of life, he was for a murther pressed to death.</p>
+               </argument>
+               <p>NOw to come to the last period of his shame and deuillish manners, in an agony of wrath (furthered on by Satan) he most wickedly stabbed a Constable, and withall a Vintner both at one time, whereof the Vintner, after he had long lyen languishing, died as a man murthered by wilfull violence, for which this <hi>Flood</hi> was atached, impri<g ref="char:EOLhyphen"/>soned, arraigned, and put to tryall, but by no per<g ref="char:EOLhyphen"/>swasions would he commit himselfe to the Law, but most obstinately stood to the seuere iustice of the Bench, who according to custome, censured him to the Presse, where he receiued his deserts, by being bruised in terrible manner to a most fearfull death: whose execution was performed in the pressing yard at Newgate, vpon the 18. of <hi>Ianuary</hi> this present yeare.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
